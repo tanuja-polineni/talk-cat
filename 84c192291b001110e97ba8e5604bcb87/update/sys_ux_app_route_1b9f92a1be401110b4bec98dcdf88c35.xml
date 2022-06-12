@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Social Talk Config">d39f92a1da401110572e8c7457496534</app_config>
+        <description/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">d79f92a1f64011106d0081658c308e35</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-12 19:22:30</sys_created_on>
+        <sys_id>1b9f92a1be401110b4bec98dcdf88c35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="Social Talk" source="x_710653_social_0">84c192291b001110e97ba8e5604bcb87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Talk">84c192291b001110e97ba8e5604bcb87</sys_scope>
+        <sys_update_name>sys_ux_app_route_1b9f92a1be401110b4bec98dcdf88c35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-12 19:22:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=1b9f92a1be401110b4bec98dcdf88c35"/>
+</record_update>

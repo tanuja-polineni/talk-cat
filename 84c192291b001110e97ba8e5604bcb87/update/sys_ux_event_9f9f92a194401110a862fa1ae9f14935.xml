@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <event_name>NAV_ITEM_SELECTED_RELAY_df9f92a1bc4011109fc6a23cff30b135</event_name>
+        <interfaces/>
+        <label>Link to destination Relay (New Home default)</label>
+        <props>[{"name":"route","fieldType":"string","interfaceApiName":"global.route","label":"Route type"},{"name":"fields","fieldType":"json","interfaceApiName":"global.route","label":"Route fields"},{"name":"params","fieldType":"json","interfaceApiName":"global.route","label":"Optionals parameters"},{"name":"redirect","fieldType":"boolean","interfaceApiName":null,"label":"Remove previous URL from browser history"},{"name":"passiveNavigation","fieldType":"boolean","interfaceApiName":null,"label":"Load in background (advanced)"},{"name":"title","fieldType":"string","interfaceApiName":null,"label":"Title (advanced)"},{"name":"multiInstField","fieldType":"string","interfaceApiName":null,"label":"Multi-instance field (advanced)"},{"name":"targetRoute","fieldType":"string","interfaceApiName":null,"label":"Sub-navigation route (advanced)"},{"name":"external","fieldType":"json","interfaceApiName":"global.route","label":"External URL object"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-12 19:22:30</sys_created_on>
+        <sys_id>9f9f92a194401110a862fa1ae9f14935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Link to destination Relay (New Home default)</sys_name>
+        <sys_package display_value="Social Talk" source="x_710653_social_0">84c192291b001110e97ba8e5604bcb87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Talk">84c192291b001110e97ba8e5604bcb87</sys_scope>
+        <sys_update_name>sys_ux_event_9f9f92a194401110a862fa1ae9f14935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-12 19:22:30</sys_updated_on>
+    </sys_ux_event>
+</record_update>

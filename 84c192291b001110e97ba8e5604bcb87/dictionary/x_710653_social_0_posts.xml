@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Posts" max_length="40" name="x_710653_social_0_posts" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element choice="1" display="true" label="Highlites" max_length="40" name="highlites" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fun" sequence="10" value="fun"/>
+                <element inactive_on_update="false" label="Politics" sequence="20" value="politics"/>
+                <element inactive_on_update="false" label="Technology" sequence="30" value="technology"/>
+                <element inactive_on_update="false" label="Education" sequence="40" value="education"/>
+                <element inactive_on_update="false" label="Nature" sequence="50" value="nature"/>
+                <element inactive_on_update="false" label="Media" sequence="60" value="media"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

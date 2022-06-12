@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Social Talk Config">d39f92a1da401110572e8c7457496534</app_config>
+        <description/>
+        <fields/>
+        <icon/>
+        <name>Home</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>home</route_type>
+        <screen_type display_value="Home">5f9f92a1e240111007bbd3c3ac8b7e34</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-12 19:22:29</sys_created_on>
+        <sys_id>df9f92a1284011105dce92b530678334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Social Talk" source="x_710653_social_0">84c192291b001110e97ba8e5604bcb87</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Social Talk">84c192291b001110e97ba8e5604bcb87</sys_scope>
+        <sys_update_name>sys_ux_app_route_df9f92a1284011105dce92b530678334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-12 19:22:29</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=df9f92a1284011105dce92b530678334"/>
+</record_update>
